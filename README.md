@@ -7,7 +7,7 @@
 
 - The point of the game is to dodge as many projectiles as you can and survive the longest
 
-<h3> 🌱 I’m currently learning <bold>Rust, Axum, Python, TailwindCSS, tokio-rust</bold></h5>
+<h3> 🌱 I’m currently learning</h5>
 
   -  **Rust, Axum, tokio-rust**
   
