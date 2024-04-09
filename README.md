@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bence Szalai</h1>
 <h3 align="center">A full stack developer studying in Jedlik Győr</h3>
 
-<h5> 🔭 Current Project:  <a href="https://github.com/Benceszalaiii/dol">DoL</a> </h3>
+<h5> 🔭 Current Project:  <emphasized><a href="https://github.com/Benceszalaiii/dol">DoL</a></emphasized></h3>
 
 - DoL (Dodge of Legends) is a League of Legends inspired game written entirely in pygame 
 
@@ -16,7 +16,7 @@
   -  **Python**
 
   
-<h5>📫 How to reach me <bold>szalai.bence.bendeguz@students.jedlik.eu</bold></h5>
+<h5>📫 How to reach me </br><bold>szalai.bence.bendeguz@students.jedlik.eu</bold></h5>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
