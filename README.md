@@ -18,7 +18,7 @@
   
 <h5>📫 How to reach me</h5>
 
-<p>&Tab By E-mail: <a href="mailto:szalai.bence.bendeguz@students.jedlik.eu">szalai.bence.bendeguz@students.jedlik.eu</a></p>
+<p>&Tab; By E-mail: <a href="mailto:szalai.bence.bendeguz@students.jedlik.eu">szalai.bence.bendeguz@students.jedlik.eu</a></p>
 
 
 <h3 align="left">Connect with me:</h3>
