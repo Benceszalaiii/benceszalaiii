@@ -3,7 +3,7 @@
 
 <h3> 🔭 Current Project:  <emphasized><a href="https://github.com/Benceszalaiii/agazati">Agazati</a></emphasized></h3>
 
-- Agazati vizsga cheatsheet webpage with Stripe payment and Next.js
+- Agazati vizsga cheatsheet webpage with Next.js
 
 
 <h3> 🌱 I’m currently learning</h5>
