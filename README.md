@@ -1,16 +1,19 @@
 <h1 align="center">Hi 👋, I'm Bence Szalai</h1>
 <h3 align="center">A full stack developer studying in Jedlik Győr</h3>
 
-<h3> 🔭 Current Project:  <emphasized><a href="https://github.com/Benceszalaiii/dol">DoL</a></emphasized></h3>
+<h3> 🔭 Current Project:  <emphasized><a href="https://github.com/Benceszalaiii/agazati">Agazati</a></emphasized></h3>
 
-- DoL (Dodge of Legends) is a League of Legends inspired game written entirely in pygame 
+- Agazati vizsga cheatsheet webpage with Stripe payment and Next.js
 
-- The point of the game is to dodge as many projectiles as you can and survive the longest
 
 <h3> 🌱 I’m currently learning</h5>
 
   -  **Rust, Axum, tokio-rust**
   
+  -  **TailwindCSS**
+
+  -  **Next.js**
+
   -  **TailwindCSS**
 
   -  **Python**
