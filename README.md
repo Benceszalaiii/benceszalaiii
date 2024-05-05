@@ -8,11 +8,13 @@
 
 <h3> 🌱 I’m currently learning</h5>
 
-  -  **Rust, Axum, tokio-rust**
+  -  **Rust, tokio-rust**
   
   -  **TailwindCSS**
 
   -  **Next.js**
+
+  - **React**
 
   -  **TailwindCSS**
 
