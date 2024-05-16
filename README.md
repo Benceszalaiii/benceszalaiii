@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bence Szalai</h1>
 <h3 align="center">A full stack developer studying in Jedlik Győr</h3>
 
-<h3> 🔭 Current Project:  <emphasized><a href="https://github.com/Benceszalaiii/agazati">Agazati</a></emphasized></h3>
+<h3> 🔭 Current Project:  <emphasized><a href="https://agazati.vercel.app">Agazati</a></emphasized></h3>
 
 - Agazati vizsga cheatsheet webpage with Next.js
 
@@ -13,6 +13,8 @@
   -  **TailwindCSS**
 
   -  **Next.js**
+
+  - **Nextra**
 
   - **React**
 
