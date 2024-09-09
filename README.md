@@ -8,19 +8,12 @@
 
 <h3> 🌱 I’m currently learning</h5>
 
-  -  **Next.js**
+  -  **C#**
 
-  - **Auth.js**
+  - **Rust**
 
-  - **Drizzle**
+  - **Go**
 
-  - **PostgreSQL**
-
-  - **React**
-
-  -  **TailwindCSS**
-
-  
 <h3>📫 How to reach me</h5>
 
 <p>&Tab; By E-mail: <a href="mailto:szalai.bence.bendeguz@students.jedlik.eu">szalai.bence.bendeguz@students.jedlik.eu</a></p>
