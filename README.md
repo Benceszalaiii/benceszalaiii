@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bence Szalai</h1>
 <h3 align="center">A full stack developer studying in Jedlik Győr</h3>
 
-<h3> 🔭 Current Project:  <emphasized>Pireus</emphasized></h3>
+<h3> 🔭 Current Project:  Learning C#, nothing extra </h3>
 
-- A fully functional gym website with login and admin panel.
 
 
 <h3> 🌱 I’m currently learning</h5>
