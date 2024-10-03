@@ -11,7 +11,13 @@
 
   - **Rust**
 
-  - **Go**
+  - **Next.JS**
+
+  - **Supabse**
+
+  - **Prisma**
+
+  - **Vercel**
 
 <h3>📫 How to reach me</h5>
 
