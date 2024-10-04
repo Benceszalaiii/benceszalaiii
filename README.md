@@ -13,7 +13,7 @@
 
   - **Next.JS**
 
-  - **Supabse**
+  - **Supabase**
 
   - **Prisma**
 
