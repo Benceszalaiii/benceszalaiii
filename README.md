@@ -10,8 +10,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benceszalaiii&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top languages">
 </div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Benceszalaiii&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+### 🔥 [LeetCode](https://github.com/Benceszalaiii/leetcode) statistics
+  <img src="https://leetcard.jacoblin.cool/Benceszalaiii" alt="LeetCode statistics">
 
 ---
 
