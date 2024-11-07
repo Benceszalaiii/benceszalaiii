@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Benceszalaiii
 🔭 I’m currently working on [WordShare](https://wordshare.tech/)<br><br>🌱 I’m currently learning C#, Rust, Next.js 14, Prisma, AWS, Golang<br>💬 Ask me about anything, and I'll try my best to help
 
 # 💻 Tech Stack:
