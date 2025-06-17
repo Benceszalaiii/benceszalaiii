@@ -7,7 +7,8 @@
 <div style="display: flex; flex-direction: row; gap: 1rem; flex-wrap: wrap; justify-content: center; align-items: center; width: full">
   <img src="https://github-readme-stats.vercel.app/api?username=Benceszalaiii&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" alt="Statistics">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Benceszalaiii&theme=tokyonight&hide_border=true" alt="All contribution">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benceszalaiii&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top languages">
+<img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=7097&api_domain=hackatime.hackclub.com&theme=city_lights&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" alt="Top languages">
+
 </div>
 
 ### 🔥 [LeetCode](https://github.com/Benceszalaiii/leetcode) statistics
